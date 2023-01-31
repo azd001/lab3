@@ -1,5 +1,5 @@
 # Lab report 2
 
-![Image](Screenshot (1).png)
+![Image](Screenshot (9).png)
 
-![Image](Screenshot (2).png)
+![Image](Screenshot (10).png)
