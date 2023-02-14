@@ -46,6 +46,7 @@ public class ListTest {
   
   
 The bug is in line 44. index1 should be changed to index2
-![Image](before) 
     
-![Image](after)
+![Image](before.png) 
+    
+![Image](after.png)
