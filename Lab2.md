@@ -50,3 +50,7 @@ The bug is in line 44. index1 should be changed to index2
 ![Image](before.png) 
     
 ![Image](after.png)
+
+Before the fix, index2 was never being incremented, thus the while statement was always less than the size of list2. However, after we changed it to index2, then the while loop will eventually be false, thus ending the loop at some point.
+    
+One thing I learned in week 2 was how to use URL, paths, and queries. It was super interestng to understand what they were maded up and how to utilize it.
